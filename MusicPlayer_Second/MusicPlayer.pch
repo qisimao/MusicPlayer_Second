@@ -1,0 +1,37 @@
+//
+//  MusicPlayer.pch
+//  MusicPlayer_Second
+//
+//  Created by 杨威 on 15/9/28.
+//  Copyright (c) 2015年 Yoni. All rights reserved.
+//
+
+#ifndef MusicPlayer_Second_MusicPlayer_pch
+#define MusicPlayer_Second_MusicPlayer_pch
+
+#import"Macros.h"
+
+#import "MusicListCell.h"
+#import "MusicListVC.h"
+
+#import "MusicPlayerVC.h"
+#import "MusicPlayerView.h"
+
+#import "MusicListModel.h"
+
+
+#import "MusicListManager.h"
+
+#import "UIImageView+WebCache.h"
+
+#import <AVFoundation/AVFoundation.h>
+#import "MusicPlayerManager.h"
+
+#import "MusicPlayerCell.h"
+
+#import"MusicLyricModel.h"
+
+#import"MusicLyricManager.h"
+
+
+#endif
